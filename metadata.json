@@ -1,0 +1,6 @@
+{
+  "name": "SafeMess",
+  "description": "Không Máy Chủ – Không Vết Tích – Kết Nối 1 Lần – Danh Tính Tuyệt Đối",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
